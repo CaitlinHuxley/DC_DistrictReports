@@ -9,4 +9,4 @@ CountyName,
 VH20G (2020 General Vote History Field),
 VH18G (2018 General Vote History Field),
 VH14G (2014 General Vote History Field),
-CalculatedParty,
+CalculatedParty
